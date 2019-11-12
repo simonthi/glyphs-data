@@ -22,22 +22,22 @@
 	<glyph unicode="10F30" name="aleph-sog" category="Letter" script="sogdian" production="u10F30" description="SOGDIAN LETTER ALEPH" />
 	<glyph unicode="10F3D" name="ayin-sog" category="Letter" script="sogdian" production="u10F3D" description="SOGDIAN LETTER AYIN" />
 	<glyph unicode="10F31" name="beth-sog" category="Letter" script="sogdian" production="u10F31" description="SOGDIAN LETTER BETH" />
-	<glyph unicode="10F43" name="feth-sog" category="Letter" production="u10F43" description="SOGDIAN LETTER FETH" />
-	<glyph unicode="10F32" name="gimel-sog" category="Letter" production="u10F32" description="SOGDIAN LETTER GIMEL" />
-	<glyph unicode="10F33" name="he-sog" category="Letter" production="u10F33" description="SOGDIAN LETTER HE" />
-	<glyph unicode="10F36" name="heth-sog" category="Letter" production="u10F36" description="SOGDIAN LETTER HETH" />
-	<glyph unicode="10F38" name="kaph-sog" category="Letter" production="u10F38" description="SOGDIAN LETTER KAPH" />
-	<glyph unicode="10F39" name="lamedh-sog" category="Letter" production="u10F39" description="SOGDIAN LETTER LAMEDH" />
-	<glyph unicode="10F44" name="lesh-sog" category="Letter" production="u10F44" description="SOGDIAN LETTER LESH" />
-	<glyph unicode="10F3A" name="mem-sog" category="Letter" production="u10F3A" description="SOGDIAN LETTER MEM" />
-	<glyph unicode="10F3B" name="nun-sog" category="Letter" production="u10F3B" description="SOGDIAN LETTER NUN" />
-	<glyph unicode="10F3E" name="pe-sog" production="u10F3E" description="SOGDIAN LETTER PE" />
-	<glyph unicode="10F40" name="reshayin-sog" category="Letter" production="u10F40" description="SOGDIAN LETTER RESH-AYIN" />
-	<glyph unicode="10F3F" name="sadhe-sog" category="Letter" production="u10F3F" description="SOGDIAN LETTER SADHE" />
-	<glyph unicode="10F3C" name="samekh-sog" category="Letter" production="u10F3C" description="SOGDIAN LETTER SAMEKH" />
-	<glyph unicode="10F41" name="shin-sog" category="Letter" production="u10F41" description="SOGDIAN LETTER SHIN" />
-	<glyph unicode="10F42" name="taw-sog" category="Letter" production="u10F42" description="SOGDIAN LETTER TAW" />
-	<glyph unicode="10F34" name="waw-sog" category="Letter" production="u10F34" description="SOGDIAN LETTER WAW" />
-	<glyph unicode="10F37" name="yodh-sog" category="Letter" production="u10F37" description="SOGDIAN LETTER YODH" />
-	<glyph unicode="10F35" name="zayin-sog" category="Letter" production="u10F35" description="SOGDIAN LETTER ZAYIN" />
+	<glyph unicode="10F43" name="feth-sog" category="Letter" script="sogdian" production="u10F43" description="SOGDIAN LETTER FETH" />
+	<glyph unicode="10F32" name="gimel-sog" category="Letter" script="sogdian" production="u10F32" description="SOGDIAN LETTER GIMEL" />
+	<glyph unicode="10F33" name="he-sog" category="Letter" script="sogdian" production="u10F33" description="SOGDIAN LETTER HE" />
+	<glyph unicode="10F36" name="heth-sog" category="Letter" script="sogdian" production="u10F36" description="SOGDIAN LETTER HETH" />
+	<glyph unicode="10F38" name="kaph-sog" category="Letter" script="sogdian" production="u10F38" description="SOGDIAN LETTER KAPH" />
+	<glyph unicode="10F39" name="lamedh-sog" category="Letter" script="sogdian" production="u10F39" description="SOGDIAN LETTER LAMEDH" />
+	<glyph unicode="10F44" name="lesh-sog" category="Letter" script="sogdian" production="u10F44" description="SOGDIAN LETTER LESH" />
+	<glyph unicode="10F3A" name="mem-sog" category="Letter" script="sogdian" production="u10F3A" description="SOGDIAN LETTER MEM" />
+	<glyph unicode="10F3B" name="nun-sog" category="Letter" script="sogdian" production="u10F3B" description="SOGDIAN LETTER NUN" />
+	<glyph unicode="10F3E" name="pe-sog" script="sogdian" production="u10F3E" description="SOGDIAN LETTER PE" />
+	<glyph unicode="10F40" name="reshayin-sog" category="Letter" script="sogdian" production="u10F40" description="SOGDIAN LETTER RESH-AYIN" />
+	<glyph unicode="10F3F" name="sadhe-sog" category="Letter" script="sogdian" production="u10F3F" description="SOGDIAN LETTER SADHE" />
+	<glyph unicode="10F3C" name="samekh-sog" category="Letter" script="sogdian" production="u10F3C" description="SOGDIAN LETTER SAMEKH" />
+	<glyph unicode="10F41" name="shin-sog" category="Letter" script="sogdian" production="u10F41" description="SOGDIAN LETTER SHIN" />
+	<glyph unicode="10F42" name="taw-sog" category="Letter" script="sogdian" production="u10F42" description="SOGDIAN LETTER TAW" />
+	<glyph unicode="10F34" name="waw-sog" category="Letter" script="sogdian" production="u10F34" description="SOGDIAN LETTER WAW" />
+	<glyph unicode="10F37" name="yodh-sog" category="Letter" script="sogdian" production="u10F37" description="SOGDIAN LETTER YODH" />
+	<glyph unicode="10F35" name="zayin-sog" category="Letter" script="sogdian" production="u10F35" description="SOGDIAN LETTER ZAYIN" />
 </glyphData>
