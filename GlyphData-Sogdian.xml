@@ -45,4 +45,8 @@
 	<glyph unicode="10F52" name="ten-sog" sortName="sog.10" category="Number" script="sogdian" description="SOGDIAN NUMBER TEN" />
 	<glyph unicode="10F53" name="twenty-sog" sortName="sog.20" category="Number" script="sogdian" description="SOGDIAN NUMBER TWENTY" />
 	<glyph unicode="10F45" name="shin-sog.isol" category="Letter" script="sogdian" description="SOGDIAN INDEPENDENT SHIN" />
+	<glyph unicode="10F57" name="circlewithdot-sog" category="Punctuation" script="sogdian" description="SOGDIAN PUNCTUATION CIRCLE WITH DOT" />
+	<glyph unicode="10F59" name="circleswithdots-sog" category="Punctuation" script="sogdian" description="SOGDIAN PUNCTUATION CIRCLES WITH DOTS" />
+	<glyph unicode="10F55" name="twoverticalbars-sog" category="Punctuation" script="sogdian" description="SOGDIAN PUNCTUATION TWO VERTICAL BARS" />
+	<glyph unicode="10F56" name="twoverticalbarswithdots-sog" category="Punctuation" script="sogdian" description="SOGDIAN PUNCTUATION TWO VERTICAL BARS" />
 </glyphData>
