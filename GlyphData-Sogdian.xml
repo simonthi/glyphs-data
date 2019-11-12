@@ -44,4 +44,5 @@
 	<glyph unicode="10F54" name="hundred-sog" sortName="sog.100" category="Number" script="sogdian" description="SOGDIAN NUMBER ONE HUNDRED" />
 	<glyph unicode="10F52" name="ten-sog" sortName="sog.10" category="Number" script="sogdian" description="SOGDIAN NUMBER TEN" />
 	<glyph unicode="10F53" name="twenty-sog" sortName="sog.20" category="Number" script="sogdian" description="SOGDIAN NUMBER TWENTY" />
+	<glyph unicode="10F45" name="shin-sog.isol" category="Letter" script="sogdian" description="SOGDIAN INDEPENDENT SHIN" />
 </glyphData>
