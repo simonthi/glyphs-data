@@ -40,4 +40,8 @@
 	<glyph unicode="10F34" name="waw-sog" category="Letter" script="sogdian" production="u10F34" description="SOGDIAN LETTER WAW" />
 	<glyph unicode="10F37" name="yodh-sog" category="Letter" script="sogdian" production="u10F37" description="SOGDIAN LETTER YODH" />
 	<glyph unicode="10F35" name="zayin-sog" category="Letter" script="sogdian" production="u10F35" description="SOGDIAN LETTER ZAYIN" />
+	<glyph unicode="10F51" name="one-sog" sortName="sog.1" category="Number" script="sogdian" description="SOGDIAN NUMBER ONE" />
+	<glyph unicode="10F54" name="hundred-sog" sortName="sog.100" category="Number" script="sogdian" description="SOGDIAN NUMBER ONE HUNDRED" />
+	<glyph unicode="10F52" name="ten-sog" sortName="sog.10" category="Number" script="sogdian" description="SOGDIAN NUMBER TEN" />
+	<glyph unicode="10F53" name="twenty-sog" sortName="sog.20" category="Number" script="sogdian" description="SOGDIAN NUMBER TWENTY" />
 </glyphData>
