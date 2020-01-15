@@ -40,13 +40,25 @@
 	<glyph unicode="10F34" name="waw-sog" category="Letter" script="sogdian" production="u10F34" description="SOGDIAN LETTER WAW" />
 	<glyph unicode="10F37" name="yodh-sog" category="Letter" script="sogdian" production="u10F37" description="SOGDIAN LETTER YODH" />
 	<glyph unicode="10F35" name="zayin-sog" category="Letter" script="sogdian" production="u10F35" description="SOGDIAN LETTER ZAYIN" />
-	<glyph unicode="10F51" name="one-sog" sortName="sog.1" category="Number" script="sogdian" description="SOGDIAN NUMBER ONE" />
+	<glyph unicode="10F51" name="one-sog" sortName="sog.1" category="Number" script="sogdian" production="u10F51" description="SOGDIAN NUMBER ONE" />
 	<glyph unicode="10F54" name="hundred-sog" sortName="sog.100" category="Number" script="sogdian" description="SOGDIAN NUMBER ONE HUNDRED" />
 	<glyph unicode="10F52" name="ten-sog" sortName="sog.10" category="Number" script="sogdian" description="SOGDIAN NUMBER TEN" />
-	<glyph unicode="10F53" name="twenty-sog" sortName="sog.20" category="Number" script="sogdian" description="SOGDIAN NUMBER TWENTY" />
+	<glyph unicode="10F53" name="twenty-sog" sortName="sog.20" category="Number" script="sogdian" production="u10F53" description="SOGDIAN NUMBER TWENTY" />
 	<glyph unicode="10F45" name="shin-sog.isol" category="Letter" script="sogdian" description="SOGDIAN INDEPENDENT SHIN" />
-	<glyph unicode="10F57" name="circlewithdot-sog" category="Punctuation" script="sogdian" description="SOGDIAN PUNCTUATION CIRCLE WITH DOT" />
-	<glyph unicode="10F59" name="circleswithdots-sog" category="Punctuation" script="sogdian" description="SOGDIAN PUNCTUATION CIRCLES WITH DOTS" />
+	<glyph unicode="10F57" name="circlewithdot-sog" category="Punctuation" script="sogdian" production="u10F57" description="SOGDIAN PUNCTUATION CIRCLE WITH DOT" />
+	<glyph unicode="10F59" name="halfcirclewithdot-sog" category="Punctuation" script="sogdian" description="SOGDIAN PUNCTUATION HALF CIRCLE WITH DOT" />
 	<glyph unicode="10F55" name="twoverticalbars-sog" category="Punctuation" script="sogdian" description="SOGDIAN PUNCTUATION TWO VERTICAL BARS" />
 	<glyph unicode="10F56" name="twoverticalbarswithdots-sog" category="Punctuation" script="sogdian" description="SOGDIAN PUNCTUATION TWO VERTICAL BARS" />
+	<glyph unicode="10F4A" name="curveabove-sog" category="Mark" script="sogdian" description="SOGDIAN COMBINING CURVE ABOVE" />
+	<glyph unicode="10F58" name="twocircleswithdots-sog" category="Punctuation" script="sogdian" production="u10F58" description="SOGDIAN PUNCTUATION TWO CIRCLES WITH DOTS" />
+	<glyph unicode="10F46" name="dotbelow-sog" category="Mark" script="sogdian" production="u10F46" description="SOGDIAN COMBINING DOT BELOW" />
+	<glyph unicode="10F47" name="twodotsbelow-sog" category="Mark" script="sogdian" production="u10F47" description="SOGDIAN COMBINING TWO DOTS BELOW" />
+	<glyph unicode="10F48" name="dotabove-sog" category="Mark" script="sogdian" production="u10F48" description="SOGDIAN COMBINING DOT ABOVE" />
+	<glyph unicode="10F49" name="unknown" sortName="twodotsabove-sog" category="Mark" script="sogdian" production="u10F49" description="SOGDIAN COMBINING TWO DOTS ABOVE" />
+	<glyph unicode="10F4B" name="curvebelow-sog" category="Mark" script="sogdian" production="u10F4B" description="SOGDIAN COMBINING CURVE BELOW" />
+	<glyph unicode="10F4C" name="hookabove-sog" category="Mark" script="sogdian" production="u10F4C" description="SOGDIAN COMBINING HOOK ABOVE" />
+	<glyph unicode="10F4D" name="hookbelow-sog" category="Mark" script="sogdian" production="u10F4D" description="SOGDIAN COMBINING HOOK BELOW" />
+	<glyph unicode="10F4E" name="longhookbelow-sog" category="Mark" script="sogdian" production="u10F4E" description="SOGDIAN COMBINING LONG HOOK BELOW" />
+	<glyph unicode="10F4F" name="reshbelow-sog" category="Mark" script="sogdian" production="u10F4F" description="SOGDIAN COMBINING RESH BELOW" />
+	<glyph unicode="10F50" name="strokebelow-sog" category="Mark" production="u10F50" description="SOGDIAN COMBINING STROKE BELOW" />
 </glyphData>
